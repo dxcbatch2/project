@@ -2,6 +2,7 @@
     <wb-module deploy-name="StudentWebApp">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Hibernate"/>
         <property name="context-root" value="StudentWebApp"/>
         <property name="java-output-path" value="/StudentWebApp/build/classes"/>
     </wb-module>
